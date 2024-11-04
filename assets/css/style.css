@@ -18,6 +18,17 @@ h1, h2 {
     color: #184f63; /* dark blue */
 }
 
+/* Hero section */
+
+#hero {
+    background-color: #dbdcde;
+    background-image: url("../images/background.webp");
+    background-size: cover;
+    min-height: 500px;
+    background-position: 50% 70%;
+    padding: 5% 7%;
+}
+
 /* About section*/
 
 #about {
@@ -27,7 +38,7 @@ h1, h2 {
 /* Portfolio section */
 
 #portfolio {
-    background-color: #dbdcde; light grey;
+    background-color: #dbdcde; /* light grey */
 }
 
 /* Contact section */
