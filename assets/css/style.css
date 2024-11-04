@@ -24,8 +24,8 @@ h1, h2 {
     background-color: #dbdcde;
     background-image: url("../images/background.webp");
     background-size: cover;
-    min-height: 500px;
     background-position: 50% 70%;
+    min-height: 500px;
     padding: 5% 7%;
 }
 
